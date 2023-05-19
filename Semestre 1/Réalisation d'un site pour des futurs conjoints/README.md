@@ -27,6 +27,7 @@ dans lequel vous trouverez nos échanges au format .eml
 Améliorations que je pourrais apporter / Ce qui n'a pas été finalisé : 
 - Finaliser le prototype (certaines pages n'ont pas été réalisées ou finalisées)
 - Améliorer mes maquettes et personas
+- 
 
 SAE S1.05 - Recueil de besoins
 s
