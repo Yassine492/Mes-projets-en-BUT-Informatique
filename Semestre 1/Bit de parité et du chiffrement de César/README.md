@@ -1,7 +1,6 @@
 - Intitulé: SAE : Implémentation d'un besoin client - Codage et décodage
 - Objectif: implanter différentes techniques de codage et décodage de l'information
 - Nombre de personnes: 2 
-- Durée: 1 mois
 - Tâches à accomplir: codage à bit de parité simple, chiffrement de César
 - Outils: Python, Jupyter Notebook, ASCII
 - Résultats: transmettre des nombres entre 0 et 1023 selon le codage à bit de parité simple,fonctions de chiffrement et déchiffrement de César
