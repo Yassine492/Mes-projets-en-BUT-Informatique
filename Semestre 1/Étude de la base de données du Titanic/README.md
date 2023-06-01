@@ -1,11 +1,10 @@
-- Intitulé: SAE : Implémentation d'un besoin client - Codage et décodage
-- Objectif: implanter différentes techniques de codage et décodage de l'information
+- Intitulé: SAE 1.04 Création d'une base de données
+- Objectif:  récupérer des données officielles et à s'aider du langage SQL pour les stocker dans une base de données et de les explorer afin de produire des analyses
 - Nombre de personnes: 2 
-- Durée: 1 mois
-- Tâches à accomplir: codage à bit de parité simple, chiffrement de César
-- Outils: Python, Jupyter Notebook, ASCII
-- Résultats: transmettre des nombres entre 0 et 1023 selon le codage à bit de parité simple,fonctions de chiffrement et déchiffrement de César
-- Valorisation possible dans le monde professionnel: connaissances du langage Python, bases sur la lecture et l'écriture de fichiers textes
+- Tâches à accomplir: prendre connaissance de la structure de données du fichier CSV du Titanic, réaliser un modlèle de donnée à partir de ce fichier CSV, réaliser le script de création de la base de données, réaliser des requêtes pour visualiser des données spécifiques
+- Outils: SQL, PostgreSQL
+- Résultats: Visualiser des données spécifiques de la base de données du Titanic
+- Valorisation possible dans le monde professionnel: connaissances du langage SQL
 
 Déroulement: 
 
