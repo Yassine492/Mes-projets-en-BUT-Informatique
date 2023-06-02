@@ -4,7 +4,7 @@
 - Tâches à accomplir: prendre connaissance de la structure de données du fichier CSV du Titanic, réaliser un modlèle de donnée à partir de ce fichier CSV, réaliser le script de création de la base de données, réaliser des requêtes pour visualiser des données spécifiques
 - Outils: SQL, PostgreSQL
 - Résultats: Visualiser des données spécifiques de la base de données du Titanic
-- Valorisation possible dans le monde professionnel: connaissances du langage SQL
+- Valorisation possible dans le monde professionnel: connaissances du langage SQL utiles pour réaliser des modèles relationnels et faire des visualisations de données
 
 Déroulement: 
 
