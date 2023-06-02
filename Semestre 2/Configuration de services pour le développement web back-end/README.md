@@ -3,8 +3,8 @@
 - Nombre de personnes: **individuel**
 - Tâches à accomplir: installer MariaDB, créer un utilisateur sur Linux, installer mariadb-serveur et php-mysql, activer le module PDO pdo_mysql, créer un utilisateur et une base de données dans MariaDB, activer le service apache2, installer phpMyAdmin
 - Outils: MariaDB/MySQL, apache2, links (navigateur), PHP, phpMyAdmin
-- Résultats: pouvoir 
-- Valorisation possible dans le monde professionnel: outils pour réaliser du développement back-end et ainsi produire des pages dynamiques qui intéragissent avec des bases de données
+- Résultats: développer en back-end (PHP) et pouvoir se connecter à une base de données
+- Valorisation possible dans le monde professionnel: connaitre les outils nécessaires afin de réaliser du développement back-end et des pages dynamiques qui communiquent avec des bases de données
 
 Déroulement: 
 
