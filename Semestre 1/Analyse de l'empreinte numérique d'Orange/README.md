@@ -1,11 +1,10 @@
-- Intitulé: SAE : Implémentation d'un besoin client - Codage et décodage
-- Objectif: implanter différentes techniques de codage et décodage de l'information
-- Nombre de personnes: 2 
-- Durée: 1 mois
-- Tâches à accomplir: codage à bit de parité simple, chiffrement de César
-- Outils: Python, Jupyter Notebook, ASCII
-- Résultats: transmettre des nombres entre 0 et 1023 selon le codage à bit de parité simple,fonctions de chiffrement et déchiffrement de César
-- Valorisation possible dans le monde professionnel: connaissances du langage Python, bases sur la lecture et l'écriture de fichiers textes
+- Intitulé: SAE 1.06 : Découverte de l'environnement économique et écologique
+- Objectif: analyser l'empreinte numérique d'une entreprise
+- Nombre de personnes: 4
+- Tâches à accomplir: présentation de l'entreprise, présenter l'empreinte écologique du numérique de l'entreprise
+- Outils: Microsoft Office (Word, PowerPoint)
+- Résultats: rapport écrit et présentation orale
+- Valorisation possible dans le monde professionnel: une autonomie dans la recherche d'information, réaliser des documents professionnels (diaporama et rapport écrit)
 
 Déroulement: 
 
