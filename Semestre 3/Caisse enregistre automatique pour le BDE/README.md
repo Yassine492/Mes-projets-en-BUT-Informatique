@@ -1,4 +1,4 @@
-- Intitulé: Projet caisse enregistreuse automatiqeu
+- Intitulé: Projet caisse enregistreuse automatique
 - Objectif: mettre à disposition du BDE de l'IUT de Villetaneuse une caisse enregistreuse automatique pour optimiser le temps de calcul (commandes) et leur permettre de se consacrer à d'autres activités 
 - Nombre de personnes: 5
 - Tâches à accomplir: réaliser un cahier des charges, décrire des récits utilisateurs (user stories),  concevoir la maquette du site et sa charte graphiques, concevoir la base de données, décrire les spécifications fonctionnelles, réaliser les différentes fonctionnalités spécifiées dans le cahier des charges et en s'aidant des spécifications fonctionnelles
