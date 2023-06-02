@@ -1,11 +1,10 @@
-- Intitulé: SAE : Implémentation d'un besoin client - Codage et décodage
-- Objectif: implanter différentes techniques de codage et décodage de l'information
-- Nombre de personnes: 2 
-- Durée: 1 mois
-- Tâches à accomplir: codage à bit de parité simple, chiffrement de César
-- Outils: Python, Jupyter Notebook, ASCII
-- Résultats: transmettre des nombres entre 0 et 1023 selon le codage à bit de parité simple,fonctions de chiffrement et déchiffrement de César
-- Valorisation possible dans le monde professionnel: connaissances du langage Python, bases sur la lecture et l'écriture de fichiers textes
+- Intitulé: SAE 1.03 Instructions de montage et d'installation du systèmes et des services réseaux
+- Objectif: avoir un pico ordinateur sur un environnement de développement incluant des compilateurs, un serveur web et un Système de Gestion de Base de Données
+- Nombre de personnes: **individuel**
+- Tâches à accomplir: assemblage du raspberry pi, configuration du wifi "eduroam", démarrage du raspberry, connexion au raspberry et fin de configuration du rapsberry, (utilisation d'un écran via un câble HDMI), installer des outils de développement
+- Outils: postgresql, php, xdebug, java, apache2
+- Résultats: pouvoir coder et exécuter du code php et java, se connecter à postgresql
+- Valorisation possible dans le monde professionnel: être à l'aise sur l'environnement Debian 10 que ce soit sur un ordinateur fixe ou bien sur un pico ordinateur tel que le Raspberry Pi
 
 Déroulement: 
 
